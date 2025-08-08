@@ -1,10 +1,21 @@
-- 👋 Hi, I’m @RevoVog
-- 👀 I’m interested in Networking
-- 🌱 I’m currently learning Web Development
-- 💞️ I’m looking to collaborate on Beginner level projects 
-- 📫 How to reach me ...
+# 👋 Hi, I'm RevoVog!
 
-<!---
-RevoVog/RevoVog is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to my GitHub profile!  
+I'm passionate about **Cybersecurity** and **Networking**. Here you'll find my projects, contributions, and explorations in these exciting fields.
+
+## 🛡️ About Me
+- 🌐 Interested in network architectures, protocols, and security solutions.
+- 🔒 Always learning about ethical hacking, penetration testing, and system hardening.
+- 💡 Exploring new technologies and sharing insights through my repositories.
+
+## 💼 What I Do
+- Develop and analyze network tools and scripts.
+- Research and experiment with cybersecurity concepts.
+- Collaborate on open-source projects related to security and networking.
+
+## 📫 Connect with Me
+- Feel free to check out my repositories or reach out for collaboration!
+
+---
+
+Thanks for visiting my profile!
