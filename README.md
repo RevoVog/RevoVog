@@ -1,4 +1,4 @@
-# 👋 Hi, I'm RevoVog!
+# 👋 Hi, I'm Vihanga!
 
 Welcome to my GitHub profile!  
 I'm passionate about **Cybersecurity** and **Networking**. Here you'll find my projects, contributions, and explorations in these exciting fields.
