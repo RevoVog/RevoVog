@@ -21,11 +21,7 @@
 ---
 
 <!-- GitHub Stats -->
-## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=1E90FF&icon_color=1E90FF" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=tokyonight&hide_border=true&background=0D1117&ring=1E90FF&fire=1E90FF&currStreakLabel=1E90FF" height="160"/>
-</div>
+
 
 ---
 
