@@ -20,19 +20,27 @@
 
 ---
 
-<!-- GitHub Stats -->
-
+<!-- Favorite Projects -->
+## 🚀 Favorite Projects
+<p align="center">
+  <a href="https://github.com/RevoVog/RAT" target="_blank">
+    <img src="https://img.shields.io/badge/RAT-Remote%20Access%20Tool-1E90FF?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 <!-- Connect With Me -->
 ## 📫 Connect with Me
 <p align="center">
-  <a href="https://github.com/YourUsername" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="mailto:revovog922@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-revovog922@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/YourLinkedIn" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-1E90FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/vihanga-okandagamage-a9179b280" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Revo%20V-1E90FF?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://maps.app.goo.gl/PbMFVQsSmYagmC4d8" target="_blank">
+    <img src="https://img.shields.io/badge/Location-Horana,%20Sri%20Lanka-FF4500?style=for-the-badge&logo=googlemaps&logoColor=white" />
   </a>
 </p>
 
